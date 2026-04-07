@@ -10,7 +10,7 @@
     "@testing-library/jest-dom": "^6.7.0",
     "@testing-library/react": "^14.0.0",
     "@testing-library/user-event": "^13.5.0",
-    "axios": "^1.6.0",
+    "axios": "^1.13.5",
     "i18next": "^23.5.1",
     "iconsax-react": "^0.0.8",
     "leaflet": "^1.9.4",
